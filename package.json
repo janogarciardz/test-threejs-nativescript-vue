@@ -1,0 +1,24 @@
+{
+  "name": "test-model-3d",
+  "main": "app/app.js",
+  "version": "1.0.0",
+  "private": true,
+  "dependencies": {
+    "@nativescript/canvas": "^1.0.0",
+    "@nativescript/canvas-media": "^1.0.0",
+    "@nativescript/canvas-polyfill": "^1.0.0",
+    "@nativescript/canvas-three": "^1.0.0",
+    "@nativescript/core": "~8.3.0",
+    "@nativescript/theme": "~3.0.2",
+    "nativescript-ui-sidedrawer": "~10.0.2",
+    "nativescript-vue": "~2.9.0",
+    "rxjs": "~7.5.0",
+    "three": "^0.127.0",
+    "vue-gl": "^1.0.0"
+  },
+  "devDependencies": {
+    "@nativescript/android": "8.3.1",
+    "@nativescript/webpack": "~5.0.9",
+    "nativescript-vue-template-compiler": "~2.9.0"
+  }
+}
